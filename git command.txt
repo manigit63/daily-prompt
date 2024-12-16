@@ -2,9 +2,11 @@
 
 
 git remote add origin https://github.com/manigit63/daily-prompt.git
-git branch -M main
-git push -u origin main
 
+git branch -M main
+
+
+git push -u origin main
 
 
 …or create a new repository on the command line
